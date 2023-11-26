@@ -2,6 +2,9 @@
   "name": "v-ec",
   "type": "module",
   "version": "0.0.1",
+  "description": "React Astro Boilerplate",
+  "author": "Nguyen Le | knguyen30111@gmail.com",
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
